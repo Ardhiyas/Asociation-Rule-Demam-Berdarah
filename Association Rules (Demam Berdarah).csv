@@ -1,0 +1,63 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'Trombositopenia', 'Ruam_Kulit'})","frozenset({'Demam_Tinggi', 'Sakit_Kepala', 'Demam_Berdarah'})",0.15,1.0,4.0
+"frozenset({'Trombositopenia', 'Ruam_Kulit'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.15,1.0,3.7037037037037033
+"frozenset({'Trombositopenia', 'Ruam_Kulit', 'Demam_Tinggi'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.15,1.0,3.7037037037037033
+"frozenset({'Trombositopenia', 'Ruam_Kulit'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.15,1.0,3.571428571428571
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.16,1.0,3.571428571428571
+"frozenset({'Trombositopenia', 'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.15,1.0,3.571428571428571
+"frozenset({'Demam_Tinggi', 'Trombositopenia'})",frozenset({'Demam_Berdarah'}),0.21,1.0,3.2258064516129035
+"frozenset({'Trombositopenia', 'Nyeri_Otot'})",frozenset({'Demam_Berdarah'}),0.18,1.0,3.2258064516129035
+"frozenset({'Trombositopenia', 'Ruam_Kulit'})",frozenset({'Demam_Berdarah'}),0.15,1.0,3.2258064516129035
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.2,1.0,3.2258064516129035
+"frozenset({'Demam_Tinggi', 'Trombositopenia', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.19,1.0,3.2258064516129035
+"frozenset({'Demam_Tinggi', 'Nyeri_Otot', 'Trombositopenia'})",frozenset({'Demam_Berdarah'}),0.16,1.0,3.2258064516129035
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Trombositopenia'})",frozenset({'Demam_Berdarah'}),0.15,1.0,3.2258064516129035
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.16,1.0,3.2258064516129035
+"frozenset({'Trombositopenia', 'Nyeri_Otot', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.15,1.0,3.2258064516129035
+"frozenset({'Trombositopenia', 'Ruam_Kulit', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.15,1.0,3.2258064516129035
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Nyeri_Otot', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.16,1.0,3.2258064516129035
+"frozenset({'Trombositopenia', 'Ruam_Kulit', 'Demam_Tinggi', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.15,1.0,3.2258064516129035
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.2,0.9523809523809524,3.401360544217687
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.2,0.9523809523809524,3.0721966205837177
+"frozenset({'Trombositopenia', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.2,0.9523809523809524,3.0721966205837177
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot'})","frozenset({'Demam_Tinggi', 'Sakit_Kepala', 'Demam_Berdarah'})",0.16,0.9411764705882353,3.764705882352941
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.16,0.9411764705882353,3.4858387799564268
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Nyeri_Otot'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.16,0.9411764705882353,3.4858387799564268
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.16,0.9411764705882353,3.3613445378151257
+"frozenset({'Ruam_Kulit', 'Nyeri_Otot'})",frozenset({'Demam_Berdarah'}),0.16,0.9411764705882353,3.0360531309297913
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Nyeri_Otot'})",frozenset({'Demam_Berdarah'}),0.16,0.9411764705882353,3.0360531309297913
+frozenset({'Pendarahan'}),frozenset({'Demam_Berdarah'}),0.15,0.9375,3.024193548387097
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.2,0.9090909090909092,3.367003367003367
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit'})",frozenset({'Demam_Berdarah'}),0.2,0.9090909090909092,2.932551319648094
+"frozenset({'Demam_Tinggi', 'Trombositopenia'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.19,0.9047619047619048,3.350970017636684
+"frozenset({'Trombositopenia', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.19,0.9047619047619048,3.2312925170068025
+"frozenset({'Demam_Tinggi', 'Nyeri_Otot', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.19,0.9047619047619048,2.9185867895545314
+"frozenset({'Trombositopenia', 'Nyeri_Otot'})","frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.16,0.888888888888889,3.1746031746031744
+"frozenset({'Demam_Tinggi', 'Nyeri_Otot'})",frozenset({'Demam_Berdarah'}),0.21,0.875,2.8225806451612905
+"frozenset({'Demam_Tinggi', 'Sakit_Kepala'})",frozenset({'Demam_Berdarah'}),0.25,0.8620689655172414,2.780867630700779
+frozenset({'Trombositopenia'}),frozenset({'Demam_Berdarah'}),0.23,0.8518518518518519,2.7479091995221028
+"frozenset({'Trombositopenia', 'Nyeri_Otot'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.15,0.8333333333333334,3.0864197530864197
+frozenset({'Ruam_Kulit'}),"frozenset({'Demam_Tinggi', 'Sakit_Kepala', 'Demam_Berdarah'})",0.2,0.8,3.2
+frozenset({'Ruam_Kulit'}),"frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.2,0.8,2.962962962962963
+frozenset({'Ruam_Kulit'}),"frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.2,0.8,2.857142857142857
+frozenset({'Ruam_Kulit'}),frozenset({'Demam_Berdarah'}),0.2,0.8,2.580645161290323
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Nyeri_Otot', 'Demam_Berdarah'})",0.16,0.7999999999999999,3.478260869565217
+"frozenset({'Demam_Tinggi', 'Nyeri_Otot'})","frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.19,0.7916666666666667,2.932098765432099
+"frozenset({'Trombositopenia', 'Demam_Tinggi', 'Sakit_Kepala'})","frozenset({'Ruam_Kulit', 'Demam_Berdarah'})",0.15,0.7894736842105263,3.9473684210526314
+frozenset({'Trombositopenia'}),"frozenset({'Demam_Tinggi', 'Demam_Berdarah'})",0.21,0.7777777777777777,2.7777777777777772
+"frozenset({'Demam_Tinggi', 'Nyeri_Otot', 'Sakit_Kepala'})","frozenset({'Ruam_Kulit', 'Demam_Berdarah'})",0.16,0.761904761904762,3.8095238095238098
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Nyeri_Otot', 'Demam_Berdarah'})",0.16,0.761904761904762,3.6281179138322
+"frozenset({'Demam_Tinggi', 'Trombositopenia'})","frozenset({'Nyeri_Otot', 'Demam_Berdarah'})",0.16,0.761904761904762,3.3126293995859215
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Nyeri_Otot', 'Demam_Berdarah'})",0.16,0.761904761904762,3.3126293995859215
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Trombositopenia', 'Demam_Berdarah'})",0.15,0.7499999999999999,3.2608695652173907
+frozenset({'Trombositopenia'}),"frozenset({'Sakit_Kepala', 'Demam_Berdarah'})",0.2,0.7407407407407407,2.743484224965706
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit'})","frozenset({'Nyeri_Otot', 'Sakit_Kepala', 'Demam_Berdarah'})",0.16,0.7272727272727273,3.6363636363636362
+"frozenset({'Demam_Tinggi', 'Ruam_Kulit'})","frozenset({'Nyeri_Otot', 'Demam_Berdarah'})",0.16,0.7272727272727273,3.1620553359683794
+"frozenset({'Demam_Tinggi', 'Trombositopenia'})","frozenset({'Ruam_Kulit', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.571428571428571
+"frozenset({'Trombositopenia', 'Sakit_Kepala'})","frozenset({'Ruam_Kulit', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.571428571428571
+"frozenset({'Trombositopenia', 'Demam_Tinggi'})","frozenset({'Ruam_Kulit', 'Sakit_Kepala', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.571428571428571
+"frozenset({'Trombositopenia', 'Sakit_Kepala'})","frozenset({'Demam_Tinggi', 'Ruam_Kulit', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.571428571428571
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Trombositopenia', 'Demam_Tinggi', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.4013605442176873
+"frozenset({'Trombositopenia', 'Sakit_Kepala'})","frozenset({'Nyeri_Otot', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.1055900621118013
+"frozenset({'Ruam_Kulit', 'Sakit_Kepala'})","frozenset({'Trombositopenia', 'Demam_Berdarah'})",0.15,0.7142857142857143,3.1055900621118013
+frozenset({'Trombositopenia'}),"frozenset({'Demam_Tinggi', 'Sakit_Kepala', 'Demam_Berdarah'})",0.19,0.7037037037037037,2.814814814814815
